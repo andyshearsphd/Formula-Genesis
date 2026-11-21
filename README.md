@@ -2,7 +2,7 @@
 
 A browser Formula 1 racing game styled like a 1990s Sega Genesis title. Pick one of four drivers, line up on a ten-car grid and fight through a three-race season at Silverstone, Spa-Francorchamps and Monza. Four laps per race, rain at Spa, and tires that give up on you if you drive like a maniac.
 
-**Play it:** https://andyshearsphd.github.io/formula-genesis/ (or open `index.html` in any modern browser).
+**Play it:** https://andyshearsphd.github.io/Formula-Genesis/ (or open `index.html` in any modern browser).
 
 ![Title screen](screenshots/title.png)
 
